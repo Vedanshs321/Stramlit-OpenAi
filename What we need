@@ -1,0 +1,19 @@
+Libraries We Used
+
+streamlit: Streamlit is an open-source Python framework used to create interactive web applications for data science and machine learning projects. It allows you to turn data scripts into shareable web apps 
+quickly and with minimal coding effort. Here’s a basic overview of what you can do with Streamlit.
+Key Features:
+Interactive Widgets: Streamlit provides a variety of widgets (like sliders, buttons, and text inputs) that allow users to interact with the data and models in real-time.
+Seamless Integration: You can integrate Streamlit with popular Python libraries like NumPy, Pandas, Matplotlib, Plotly, and others to create interactive visualizations and data analyses.
+Automatic Updates: Any change in the Python code or data automatically updates the app in real-time, without needing to refresh the page.
+Deployment: Streamlit apps can be deployed to the web easily using platforms like Streamlit Cloud, Heroku, or AWS.
+
+
+
+
+openai:The OpenAI Python library provides convenient access to OpenAI's GPT models, including GPT-4, which powers this chat. You can use the library to interact with these models for various applications
+like text generation, question answering, summarization, and more.
+Installation:
+To use the OpenAI Python library, you first need to install it. You can do this using pip:
+pip install openai
+
